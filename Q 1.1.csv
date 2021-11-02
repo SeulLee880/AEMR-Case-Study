@@ -1,0 +1,9 @@
+Year ,Total_Number_Outage_Events,Status,Reason
+2016,181,Approved,Consequential
+2016,1264,Approved,Forced
+2016,106,Approved,Opportunistic Maintenance (Planned)
+2016,380,Approved,Scheduled (Planned)
+2017,127,Approved,Consequential
+2017,1622,Approved,Forced
+2017,102,Approved,Opportunistic Maintenance (Planned)
+2017,320,Approved,Scheduled (Planned)
